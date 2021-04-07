@@ -1,6 +1,4 @@
-# .NET-kisHF
-
-# Telefonkönyv
+# .NET-kisHF - Telefonkönyv
 
 ## Feladat [2-3 mondat]
 
